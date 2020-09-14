@@ -1,8 +1,10 @@
 <script lang="ts">
-	import Header from './components/Header.svelte'
+  import Header from "./components/Header.svelte";
+  import Pre from "./components/Pre.svelte";
+
 </script>
 
-<Header/>
+<Header />
 <div class="center-x">
-	hello
+  
 </div>

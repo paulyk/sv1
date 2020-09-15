@@ -17,7 +17,7 @@ body {
 }
 
 a {
-	color: rgb(0,100,200);
+	color: #444;
 	text-decoration: none;
 }
 
@@ -74,4 +74,14 @@ button:focus {
 
 .center-x > * {
 	margin-bottom: 2rem;
+}
+
+.action-bar {
+	padding: 0.7rem 2rem;
+	display: flex;
+	justify-content: center;
+}
+
+.action-bar > * {
+	margin: 0 0.5rem;
 }

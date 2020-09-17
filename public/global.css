@@ -13,6 +13,7 @@ body {
 	color: #333;
 	margin: 0;
 	box-sizing: border-box;
+	background: #f4f4f4;
 	font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Oxygen-Sans, Ubuntu, Cantarell, "Helvetica Neue", sans-serif;
 }
 
@@ -84,4 +85,18 @@ button:focus {
 
 .action-bar > * {
 	margin: 0 0.5rem;
+}
+
+.card {
+	background: #fff;
+}
+
+.card-header	{
+	padding: 0.5rem 1rem;
+	display: grid;
+	place-items: center;
+}
+
+.card-body {
+	padding: 0.5rem 1rem;
 }

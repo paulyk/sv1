@@ -1,3 +1,3 @@
-# sv
+# svelte test bed
 
-My svelte boilerplate for testing stuff
+My svelte test bed
